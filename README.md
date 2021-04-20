@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hey there, I'm Tapish <img src="./gif/Hi.gif" width="30px"></h1>
+<!-- <h1 align="center">Hey there, I'm Tapish <img src="./gif/Hi.gif" width="30px"></h1>
 <h3 align="center">A Passionate Developer 👨‍💻 | Maker 🤹‍♂️ | Designer 👨‍🎨</h3>
 <img src = "./pngs/banner.png" style="max-width:100%;"/>
 <h3>📫 Lets Connect 🤝</h3>
@@ -63,7 +63,7 @@
 
 <h2>⚡ Top langs :tongue:</h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapixhx&langs_count=10&theme=tokyonight&layout=compact" alt="Tapish's :: Top Langs" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapixhx&langs_count=10&theme=tokyonight&layout=compact" alt="Tapish's :: Top Langs" /></p> -->
 
 <!--
 **tapixhx/tapixhx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
