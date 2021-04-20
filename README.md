@@ -25,7 +25,13 @@
   <img align="left" alt="Arnav's Hackerrank" width="28px" src="./svgs/hackerrank.svg" />
 </a>
 <a href="https://codeforces.com/profile/Arnavjain1703">
-  <img align="left" alt="Tapish's Hackerrank" width="28px" src="./Jpeg/codeforces.jpg" />
+  <img align="left" alt="Arnav's Hackerrank" width="28px" src="./Jpeg/codeforces.jpg" />
+</a>
+<a href="https://www.codechef.com/users/trap_virus">
+  <img align="left" alt="Arnav's Hackerrank" width="28px" src="./Jpeg/codechef.png" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/arnavjainkht1/practice/">
+  <img align="left" alt="Arnav's Hackerrank" width="28px" src="./Jpeg/g.png" />
 </a>
 <br/>
 <br/>
