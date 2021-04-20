@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hey there, I'm Arnav Jain <img src="./gif/Hi.gif" width="30px"></h1>
-<h3 align="center">A Passionate Developer 👨‍💻 | Maker 🤹‍♂️ | Competitive Programmer 👨‍🎨</h3>
-<img src = "./pngs/banner.png" style="max-width:100%;"/>
+<h3 align="center">A Passionate Developer 👨‍💻 | Maker 🤹‍♂️ | Competitive Programmer </h3>
+<a href="https://protfolio-196c8.web.app/"><img src = "./pngs/banner.png" style="max-width:100%;"/></a>
 <h3>📫 Lets Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/arnav-jain-555891194/">
   <img align="left" alt="Arnav's Linkdein" width="28px" src="./svgs/linkedin.svg" />
@@ -25,7 +25,7 @@
   <img align="left" alt="Arnav's Hackerrank" width="28px" src="./svgs/hackerrank.svg" />
 </a>
 <a href="https://codeforces.com/profile/Arnavjain1703">
-  <img align="left" alt="Tapish's Hackerrank" width="28px" src="./svgs/hackerrank.svg" />
+  <img align="left" alt="Tapish's Hackerrank" width="28px" src="./Jpeg/codeforces.jpg" />
 </a>
 <br/>
 <br/>
@@ -57,9 +57,7 @@
 <br/>
 <br/>
 
-<h2>👯 Visitor's count :eyes:</h2>
 
-<p><img src="https://profile-counter.glitch.me/{Arnavjain1703}/count.svg" alt="Arnav's :: Visitor's Count" /></p>
 
 <h2>⚡ Top langs :tongue:</h2>
 
