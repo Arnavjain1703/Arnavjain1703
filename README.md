@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hey there, I'm Arnav Jain <img src="./gif/Hi.gif" width="30px"></h1>
 <h3 align="center">A Passionate Developer 👨‍💻 | Maker 🤹‍♂️ | Competitive Programmer </h3>
-<a href="https://protfolio-196c8.web.app/"><img src = "./pngs/banner.png" style="max-width:100%;"/></a>
+<a href="https://portfolio-d904c.web.app/"><img src = "./pngs/banner.png" style="max-width:100%;"/></a>
 <h3>📫 Lets Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/arnav-jain-555891194/">
   <img align="left" alt="Arnav's Linkdein" width="28px" src="./svgs/linkedin.svg" />
